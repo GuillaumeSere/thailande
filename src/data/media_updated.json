@@ -1,0 +1,659 @@
+{
+  "categories": [
+    {
+      "name": "Bangkok",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179644/bangkok_images/e7fcai3zbfqbqkupwdej.jpg",
+          "alt": "Image de Bangkok 1"
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/qwIg_xDIe5U?si=wt06kr5R9d5ZJ_uZ",
+          "alt": "Vidéo de Bangkok 1"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179692/bangkok_images/i49dskinywvb4fsjnkqe.jpg",
+          "alt": "Image de Bangkok 2"
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/zspu-4jZkfU?si=1hVi2Dy83xbwGIH7",
+          "alt": "Vidéo de Bangkok 2"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179786/bangkok_images/aaeo2ybec3eaenyoqjna.jpg",
+          "alt": "Image de Bangkok 3"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180052/bangkok_videos/gtjahg9pbgbdeswrs08d.mp4",
+          "alt": "Vidéo de Bangkok 3"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179828/bangkok_images/wjbri4s5gigmn4txgbav.jpg",
+          "alt": "Image de Bangkok 4"
+        },
+        {
+          "type": "video",
+          "url": "https://youtube.com/embed/FAthbW84GFk",
+          "alt": "Vidéo de Bangkok 4"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180038/bangkok_images/ucm3unbc62g4ugfqu3os.jpg",
+          "alt": "Image de Bangkok 5"
+        },
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/H_YyEAn4KKU?si=WQk9ilcDfwyc6okL",
+          "alt": "Vidéo de Bangkok 5"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180051/bangkok_images/vtudknm70dkbamvsfaag.jpg",
+          "alt": "Image de Bangkok 6"
+        },
+        {
+          "type": "video",
+          "url": "https://youtube.com/embed/OTKFP6W6oXk?si=p8qh4yj9odRXS9W_",
+          "alt": "Vidéo de Bangkok 6"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180054/bangkok_images/cse4pvhgv8b9aram3497.jpg",
+          "alt": "Image de Bangkok 7"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180330/bangkok_videos/qr8qkdrdsrxragxtxwmw.mp4",
+          "alt": "Vidéo de Bangkok 7"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180060/bangkok_images/uop58bdywqo7ey1eqarn.jpg",
+          "alt": "Image de Bangkok 8"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180571/bangkok_videos/gbskolucc9hqjvhfbh23.mp4",
+          "alt": "Image de Bangkok 8"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180093/bangkok_images/d9erxih5andun6363x9o.jpg",
+          "alt": "Image de Bangkok 9"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180649/bangkok_videos/obf3lxeea7nww2um3jym.mp4",
+          "alt": "Image de Bangkok 9"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179647/bangkok_images/ovvprmb2fuu8vx3kevws.jpg",
+          "alt": "Image de Bangkok 10"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179650/bangkok_images/rwcnqttihr1zb7uwxtac.jpg",
+          "alt": "Image de Bangkok 11"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179652/bangkok_images/vkydpqovu6gvjarrge2a.jpg",
+          "alt": "Image de Bangkok 12"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179655/bangkok_images/yjbrctiqjyy6a8i6sul3.jpg",
+          "alt": "Image de Bangkok 13"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179660/bangkok_images/qdyjvxycbfed9fykxp67.jpg",
+          "alt": "Image de Bangkok 14"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179665/bangkok_images/qid9myqyo2jghrahpnnj.jpg",
+          "alt": "Image de Bangkok 15"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179669/bangkok_images/z4iavvltha5k6fzq0rdj.jpg",
+          "alt": "Image de Bangkok 16"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179675/bangkok_images/miqpe9pory8swi56ywzs.jpg",
+          "alt": "Image de Bangkok 17"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179679/bangkok_images/iyjyhctz4ndjaff0xnom.jpg",
+          "alt": "Image de Bangkok 18"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179684/bangkok_images/fqsff6xxjqym7tnwoxds.jpg",
+          "alt": "Image de Bangkok 19"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179698/bangkok_images/e4gi9kmftsltaalvgxl8.jpg",
+          "alt": "Image de Bangkok 20"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179707/bangkok_images/lisbmtp0jqds9vqqmvi6.jpg",
+          "alt": "Image de Bangkok 21"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179722/bangkok_images/g2srbu37urburhfmxjdl.jpg",
+          "alt": "Image de Bangkok 22"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179731/bangkok_images/gqdfijanhao8uyqmbb5i.jpg",
+          "alt": "Image de Bangkok 23"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179745/bangkok_images/pk37bmaqxkapdfrnmjwo.jpg",
+          "alt": "Image de Bangkok 24"
+        }
+      ]
+    },
+    {
+      "name": "Phuket",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179651/phuket_images/af1kktqtenu5rcommj3t.jpg",
+          "alt": "Image de Phuket 1"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753179668/phuket_videos/g1agdfxskallhzuien75.mp4",
+          "alt": "Vidéo de Phuket 1"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179797/phuket_images/zbzaee3arwkrzvc9875t.jpg",
+          "alt": "Image de Phuket 2"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180752/phuket_videos/kk1sbrlskbi4foosnwyp.mp4",
+          "alt": "Vidéo de Phuket 2"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179986/phuket_images/vlwh0ulisrwfmxrwp6yp.jpg",
+          "alt": "Image de Phuket 3"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180004/phuket_images/yu5squcmyctfa8q0ejkv.jpg",
+          "alt": "Image de Phuket 4"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180971/phuket_videos/mwykp9rryejlwsehv97y.mp4",
+          "alt": "Vidéo de Phuket 4"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180011/phuket_images/b3oggtojfjpmfopdvlz7.jpg",
+          "alt": "Image de Phuket 5"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180975/phuket_videos/xfeo3jk4tswtxramm3b7.mp4",
+          "alt": "Vidéo de Phuket 5"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180020/phuket_images/xo2vbqqx5hiptfhcc1kc.jpg",
+          "alt": "Image de Phuket 6"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180997/phuket_videos/laikspjzuree0nyjfo6c.mp4",
+          "alt": "Vidéo de Phuket 6"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180028/phuket_images/wczsnwr0hhztqhzmuzqb.jpg",
+          "alt": "Image de Phuket 7"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753181009/phuket_videos/wbetwj1x9bshwuout66e.mp4",
+          "alt": "Vidéo de Phuket 7"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180035/phuket_images/lyk8pdjhaxtas1z5ss8a.jpg",
+          "alt": "Image de Phuket 8"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753181017/phuket_videos/pqny9jk1tcjuxpcesx2l.mp4",
+          "alt": "Vidéo de Phuket 8"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180044/phuket_images/r7qvktnxk1q5tloak0pr.jpg",
+          "alt": "Image de Phuket 9"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753181021/phuket_videos/lbuwncay2bwxskex4dms.mp4",
+          "alt": "Vidéo de Phuket 9"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179663/phuket_images/o8etmwyebhwhf7eh5o5i.jpg",
+          "alt": "Image de Phuket 10"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753179723/phuket_videos/uljkjhel62oqspekygy8.mp4",
+          "alt": "Vidéo de Phuket 10"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179674/phuket_images/h82qhjelssaddx8c7uwv.jpg",
+          "alt": "Image de Phuket 11"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753179734/phuket_videos/hkkmbnofxind61eviwwz.mp4",
+          "alt": "Vidéo de Phuket 11"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179679/phuket_images/r2cpnjmmwbdnxqnkjtxt.jpg",
+          "alt": "Image de Phuket 12"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753179947/phuket_videos/zbv62sxw4ytjetigzddo.mp4",
+          "alt": "Vidéo de Phuket 12"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179684/phuket_images/ts9a81dbf4y4eqolvcwg.jpg",
+          "alt": "Image de Phuket 13"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180408/phuket_videos/eivj20lgj4qlhkgs2guo.mp4",
+          "alt": "Vidéo de Phuket 13"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179690/phuket_images/inghr005ncd1tntjbzwj.jpg",
+          "alt": "Image de Phuket 14"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180521/phuket_videos/owdrwvkldawtiopvyefe.mp4",
+          "alt": "Vidéo de Phuket 14"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179699/phuket_images/elcfo9dxtsxkh9vlcrvy.jpg",
+          "alt": "Image de Phuket 15"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180570/phuket_videos/yqntmhehlhx7oaru9ung.mp4",
+          "alt": "Vidéo de Phuket 15"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179709/phuket_images/kpvjd56gfmpkcix3ksfd.jpg",
+          "alt": "Image de Phuket 16"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180648/phuket_videos/l03c1t7beuj3rhnoleje.mp4",
+          "alt": "Vidéo de Phuket 16"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179728/phuket_images/svd1b8tfztmzk36chafy.jpg",
+          "alt": "Image de Phuket 17"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180656/phuket_videos/nk50yz2vlydxqujyjxq9.mp4",
+          "alt": "Vidéo de Phuket 17"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179738/phuket_images/ycgcdwhsenzjyils9ibm.jpg",
+          "alt": "Image de Phuket 18"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180697/phuket_videos/m0iooozpm4fh7zxwv54q.mp4",
+          "alt": "Vidéo de Phuket 18"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179771/phuket_images/i0cctuttfcrzhcdsuiyd.jpg",
+          "alt": "Image de Phuket 19"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180741/phuket_videos/cjkzdatjrukza1uqna2s.mp4",
+          "alt": "Vidéo de Phuket 19"
+        },
+        {
+          "type": "image",
+          "url": "/images/phuket/phuket20.jpg",
+          "alt": "Image de Phuket 20"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180791/phuket_videos/psayiayuo4syzfk3f2nj.mp4",
+          "alt": "Vidéo de Phuket 20"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179933/phuket_images/gutrtzepql1thucahjyh.jpg",
+          "alt": "Image de Phuket 21"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180832/phuket_videos/xgbxs2xmqhr9gntuhdto.mp4",
+          "alt": "Vidéo de Phuket 21"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179942/phuket_images/fvkru29fsbda1p3siz3n.jpg",
+          "alt": "Image de Phuket 22"
+        },
+        {
+          "type": "video",
+          "url": "/videos/phuket/phuket22.mp4",
+          "alt": "Vidéo de Phuket 22"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179948/phuket_images/h1eaqczy9ltlpawdvbes.jpg",
+          "alt": "Image de Phuket 23"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180938/phuket_videos/lemg0vfa9u7hwtjzfype.mp4",
+          "alt": "Vidéo de Phuket 23"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179951/phuket_images/bfjwm2gzxbzlfvnh5oha.jpg",
+          "alt": "Image de Phuket 24"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179957/phuket_images/mq1pah5qy50sndowgg14.jpg",
+          "alt": "Image de Phuket 25"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179961/phuket_images/ebdngbcxr57m7dfsmz1t.jpg",
+          "alt": "Image de Phuket 26"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179965/phuket_images/dmutel1ue8pfuyajdvq5.jpg",
+          "alt": "Image de Phuket 27"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179974/phuket_images/cmkayyggmxyxriolvps0.jpg",
+          "alt": "Image de Phuket 28"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179981/phuket_images/tuwjyzewbh7gjypuiq61.jpg",
+          "alt": "Image de Phuket 29"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179993/phuket_images/pgevihwc9qk6kixnxjjc.jpg",
+          "alt": "Image de Phuket 30"
+        }
+      ]
+    },
+    {
+      "name": "Chiang Mai",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179654/chiang-mai_images/sud41plqibudsvt456ic.jpg",
+          "alt": "Image de Chiang Mai 1"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753179667/chiang-mai_videos/qqpoitlvbpvdqwng3q1e.mp4",
+          "alt": "Vidéo de Chiang Mai 1"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179778/chiang-mai_images/bb2mbtbtrjk3g1yhqvl3.jpg",
+          "alt": "Image de Chiang Mai 2"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753179676/chiang-mai_videos/hv381r4hmortyndeyeec.mp4",
+          "alt": "Vidéo de Chiang Mai 2"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180108/chiang-mai_images/vhlj4ggzcxvtv5bwpezp.jpg",
+          "alt": "Image de Chiang Mai 3"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753179683/chiang-mai_videos/fnteympp0uoj2nllqho2.mp4",
+          "alt": "Vidéo de Chiang Mai 3"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180285/chiang-mai_images/r2ene8hop9fiexjfiy1y.jpg",
+          "alt": "Image de Chiang Mai 4"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753179692/chiang-mai_videos/o0lbei19aheafvm5k45l.mp4",
+          "alt": "Vidéo de Chiang Mai 4"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180290/chiang-mai_images/xt9qehmyunr9prbzikhb.jpg",
+          "alt": "Image de Chiang Mai 5"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753179906/chiang-mai_videos/ugrkqz7ipkftkbmqnhks.mp4",
+          "alt": "Vidéo de Chiang Mai 5"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180295/chiang-mai_images/crdvbl5tuazoolxn4jqz.jpg",
+          "alt": "Image de Chiang Mai 6"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180004/chiang-mai_videos/ujxgkr6b6y1lcjubooit.mp4",
+          "alt": "Vidéo de Chiang Mai 6"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180300/chiang-mai_images/iokylvn0l3sme6b1ltsz.jpg",
+          "alt": "Image de Chiang Mai 7"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180214/chiang-mai_videos/wbsdoqdsovnvxdm50zdh.mp4",
+          "alt": "Vidéo de Chiang Mai 7"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180308/chiang-mai_images/oyqnekh1zfjitydpoujk.jpg",
+          "alt": "Image de Chiang Mai 8"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180403/chiang-mai_videos/aattepyzy91m81ak1h2l.mp4",
+          "alt": "Vidéo de Chiang Mai 8"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180329/chiang-mai_images/yjtt5ffa28nrbqlmq5oc.jpg",
+          "alt": "Image de Chiang Mai 9"
+        },
+        {
+          "type": "video",
+          "url": "https://res.cloudinary.com/dwprurafx/video/upload/v1753180486/chiang-mai_videos/wrqvttlxnwbddeb8iyut.mp4",
+          "alt": "Vidéo de Chiang Mai 9"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179656/chiang-mai_images/ls2ienozbkq9dplddquw.jpg",
+          "alt": "Image de Chiang Mai 10"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179661/chiang-mai_images/cvnjonfwgcxxhl8cm7qf.jpg",
+          "alt": "Image de Chiang Mai 11"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179667/chiang-mai_images/smpuu1y7qcpjebblmwfh.jpg",
+          "alt": "Image de Chiang Mai 12"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179671/chiang-mai_images/xupyasaqbnsbolzk41iv.jpg",
+          "alt": "Image de Chiang Mai 13"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179675/chiang-mai_images/qy8loz4agbipmnmwiye3.jpg",
+          "alt": "Image de Chiang Mai 14"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179681/chiang-mai_images/fzoszzjf19iproigmy9f.jpg",
+          "alt": "Image de Chiang Mai 15"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179684/chiang-mai_images/keaftf8ugbx44m4hc3bg.jpg",
+          "alt": "Image de Chiang Mai 16"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179690/chiang-mai_images/wm0elc5gfhjbpi81kqsp.jpg",
+          "alt": "Image de Chiang Mai 17"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179705/chiang-mai_images/stnsk9zkqby9rcz1frvx.jpg",
+          "alt": "Image de Chiang Mai 18"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179719/chiang-mai_images/ods3wdoiohu2zodmbfpd.jpg",
+          "alt": "Image de Chiang Mai 19"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179785/chiang-mai_images/lzxf4lomoziymhaezqfs.jpg",
+          "alt": "Image de Chiang Mai 20"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179793/chiang-mai_images/iw0qmlh5xqdd1hz9vrm2.jpg",
+          "alt": "Image de Chiang Mai 21"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179803/chiang-mai_images/ufne1j8oqsxligw3m9ao.jpg",
+          "alt": "Image de Chiang Mai 22"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179813/chiang-mai_images/gccaqsg27jbydbbrpove.jpg",
+          "alt": "Image de Chiang Mai 23"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179886/chiang-mai_images/badxvkiy64zd4zezlvfv.jpg",
+          "alt": "Image de Chiang Mai 24"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179907/chiang-mai_images/jexusnlug931ugiswcs9.jpg",
+          "alt": "Image de Chiang Mai 25"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179961/chiang-mai_images/h1d832vlksaasn9qjwg7.jpg",
+          "alt": "Image de Chiang Mai 26"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180010/chiang-mai_images/ulevsbo6ptscqwjeakqs.jpg",
+          "alt": "Image de Chiang Mai 27"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180084/chiang-mai_images/k8knsqid3bf2exs2b9wf.jpg",
+          "alt": "Image de Chiang Mai 28"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180094/chiang-mai_images/e1whdyiurup11ukfvely.jpg",
+          "alt": "Image de Chiang Mai 29"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180137/chiang-mai_images/cf9egqebjj9enm8iezhs.jpg",
+          "alt": "Image de Chiang Mai 30"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180237/chiang-mai_images/pzh0qojlamxygnsw9iq5.jpg",
+          "alt": "Image de Chiang Mai 31"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180252/chiang-mai_images/c9ywb82uaumpzoy72qgr.jpg",
+          "alt": "Image de Chiang Mai 32"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180259/chiang-mai_images/qclkbb8evnzgoet7kcl0.jpg",
+          "alt": "Image de Chiang Mai 33"
+        },
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180270/chiang-mai_images/gnpnpbomxtmevp6cgkab.jpg",
+          "alt": "Image de Chiang Mai 34"
+        }
+      ]
+    }
+  ]
+}

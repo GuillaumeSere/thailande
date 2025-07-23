@@ -1,0 +1,132 @@
+/* Header.module.css */
+body{
+    background-color: #1a1a1a;
+}
+.siteHeader {
+  background-color: #1a1a1a; /* Un noir/gris foncé */
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(235, 235, 235, 0.1);
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+}
+
+/* --- Styles pour le menu Desktop --- */
+.desktopNav {
+  display: none; /* Caché par défaut */
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 1.5rem;
+}
+
+.desktopNav a {
+  text-decoration: none;
+  color: white;
+  transition: color 0.3s ease;
+}
+
+.desktopNav a:hover {
+  color: #b0b0b0; /* Gris clair au survol */
+}
+
+/* --- Styles pour le menu Burger --- */
+.burgerMenu {
+  display: block; /* Affiché par défaut */
+}
+
+.menuToggle {
+  display: none; /* La checkbox est invisible */
+}
+
+.menuLabel {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 10px;
+}
+
+.menuLabel span {
+  display: block;
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  border-radius: 2px;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+/* --- Styles pour l'Overlay du menu mobile --- */
+.mobileNav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.95);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 2rem;
+  transform: translateX(100%);
+  transition: transform 0.3s ease-in-out;
+  z-index: 1001;
+}
+
+.mobileNav a {
+  color: white;
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+/* --- Logique d'affichage avec la checkbox --- */
+.menuToggle:checked ~ .mobileNav {
+  transform: translateX(0);
+}
+
+/* Animation du burger en croix */
+.menuToggle:checked + .menuLabel span:nth-child(1) {
+  transform: translateY(8px) rotate(45deg);
+}
+.menuToggle:checked + .menuLabel span:nth-child(2) {
+  opacity: 0;
+}
+.menuToggle:checked + .menuLabel span:nth-child(3) {
+  transform: translateY(-8px) rotate(-45deg);
+}
+
+
+/* --- Media Query pour le responsive --- */
+@media (min-width: 768px) {
+  .desktopNav {
+    display: flex; /* Affiche le menu desktop sur grand écran */
+  }
+  .burgerMenu {
+    display: none; /* Cache le burger sur grand écran */
+  }
+} 
+
+@media (max-width: 768px) {
+    .logo{
+        font-size: 1rem;
+    }
+
+}
