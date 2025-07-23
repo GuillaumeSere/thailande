@@ -4,7 +4,9 @@ import CategoryPageClient from '@/components/CategoryPageClient';
 import type { Category } from '@/lib/types';
 
 type Props = {
-    params: Promise<{ slug: string }> | { slug: string }
+  params: {
+    slug: string;
+  };
 };
 
 function createSlug(name: string) {
