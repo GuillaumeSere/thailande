@@ -167,7 +167,32 @@
           "type": "image",
           "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179745/bangkok_images/pk37bmaqxkapdfrnmjwo.jpg",
           "alt": "Image de Bangkok 24"
-        }
+        },
+        {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274936/20250701_105518_l3tdp8.jpg",
+            "alt": "Image de Bangkok 25"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274924/20250701_111417_tucxkt.jpg",
+            "alt": "Image de Bangkok 26"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274925/20250701_112349_hlnwfm.jpg",
+            "alt": "Image de Bangkok 27"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274929/20250701_130205_lbv1rp.jpg",
+            "alt": "Image de Bangkok 28"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274931/20250701_140231_yrptnp.jpg",
+            "alt": "Image de Bangkok 29"
+          }
       ]
     },
     {
@@ -432,7 +457,32 @@
           "type": "image",
           "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753179993/phuket_images/pgevihwc9qk6kixnxjjc.jpg",
           "alt": "Image de Phuket 30"
-        }
+        },
+        {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274954/20250705_132108_zbuzpg.jpg",
+            "alt": "Image de Phuket 31"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274947/20250702_203150_bbvjz4.jpg",
+            "alt": "Image de Phuket 32"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274947/20250704_095830_bivzgn.jpg",
+            "alt": "Image de Phuket 33"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274946/20250703_094856_yfvfij.jpg",
+            "alt": "Image de Phuket 34"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274964/20250707_093728_ddzwze.jpg",
+            "alt": "Image de Phuket 35"
+          }
       ]
     },
     {
@@ -652,7 +702,47 @@
           "type": "image",
           "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753180270/chiang-mai_images/gnpnpbomxtmevp6cgkab.jpg",
           "alt": "Image de Chiang Mai 34"
-        }
+        },
+        {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274986/20250712_212155_bpo06k.jpg",
+            "alt": "Image de Chiang Mai 35"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274983/IMG-20250712-WA0054_af3z5y.jpg",
+            "alt": "Image de Chiang Mai 36"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274974/20250710_110813_wwjlsk.jpg",
+            "alt": "Image de Chiang Mai 37"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274974/20250712_210407_q7u4xg.jpg",
+            "alt": "Image de Chiang Mai 38"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274973/20250710_110524_wi3x8c.jpg",
+            "alt": "Image de Chiang Mai 39"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274973/20250712_211251_g8vgg7.jpg",
+            "alt": "Image de Chiang Mai 40"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274961/20250708_145613_uliaqt.jpg",
+            "alt": "Image de Chiang Mai 41"
+          },
+          {
+            "type": "image",
+            "url": "https://res.cloudinary.com/dwprurafx/image/upload/v1753274955/20250701_112508_idv3sl.jpg",
+            "alt": "Image de Chiang Mai 42"
+          }
       ]
     }
   ]
