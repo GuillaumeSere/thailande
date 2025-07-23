@@ -18,8 +18,7 @@ function createSlug(name: string) {
 }
 
 export default async function CategoryPage({ params }: Props) {
-    const resolvedParams = await params;  
-  const { slug } = resolvedParams;
+    const { slug } = params;
 
   const categories = data.categories as Category[];
 
