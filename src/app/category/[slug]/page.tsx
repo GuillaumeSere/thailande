@@ -1,21 +1,15 @@
-// src/app/category/[slug]/page.tsx
-
-import data from '@/data/media_updated.json';
 import { notFound } from 'next/navigation';
-import type { Category } from '@/lib/types';
+import data from '@/data/media_updated.json';
 import CategoryPageClient from '@/components/CategoryPageClient';
+import type { Category } from '@/lib/types';
 
-export default async function CategoryPage({
-  params,
-}: {
-  params: { slug: string };
-}) {
-  const createSlug = (name: string) => {
-    return name.toLowerCase().replace(/\s+/g, '-');
-  };
+export default async function CategoryPage({ params }: { params: { slug: string } }) {
+  const { slug } = await params; // <-- ici on await params
+
+  const createSlug = (name: string) => name.toLowerCase().replace(/\s+/g, '-');
 
   const category = (data.categories as Category[]).find(
-    (c) => createSlug(c.name) === params.slug
+    (c) => createSlug(c.name) === slug
   );
 
   if (!category) {
@@ -26,13 +20,12 @@ export default async function CategoryPage({
 }
 
 export async function generateStaticParams() {
-  const createSlug = (name: string) => {
-    return name.toLowerCase().replace(/\s+/g, '-');
-  };
+  const createSlug = (name: string) => name.toLowerCase().replace(/\s+/g, '-');
 
   return (data.categories as Category[]).map((category) => ({
-    params: {
-      slug: createSlug(category.name),
-    },
+    slug: createSlug(category.name),
   }));
 }
+
+
+
