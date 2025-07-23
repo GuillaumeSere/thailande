@@ -1,6 +1,9 @@
 @import "tailwindcss/preflight";
 @import "tailwindcss/utilities";
 
+.container{
+    background-color: #1a1a1a !important;
+}
 .embla {
   overflow: hidden;
 }
