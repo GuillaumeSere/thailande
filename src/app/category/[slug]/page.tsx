@@ -35,6 +35,8 @@ export async function generateStaticParams() {
   };
 
   return (data.categories as Category[]).map((category: Category) => ({
+   params: {
     slug: createSlug(category.name),
+   }
   }));
 } 
