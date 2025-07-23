@@ -4,12 +4,12 @@ import CategoryPageClient from '@/components/CategoryPageClient';
 import type { Category } from '@/lib/types';
 
 export default async function CategoryPage({ params }: { params: { slug: string } }) {
-  const { slug } = await params; // <-- ici on await params
+    const resolvedParams = await params;
 
   const createSlug = (name: string) => name.toLowerCase().replace(/\s+/g, '-');
 
   const category = (data.categories as Category[]).find(
-    (c) => createSlug(c.name) === slug
+    (c) => createSlug(c.name) === resolvedParams.slug
   );
 
   if (!category) {
