@@ -4,9 +4,9 @@ import CategoryPageClient from '@/components/CategoryPageClient';
 import type { Category } from '@/lib/types';
 
 type Props = {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 };
 
 function createSlug(name: string) {
@@ -17,8 +17,9 @@ function createSlug(name: string) {
     .replace(/\s+/g, '-');               // remplace les espaces par des tirets
 }
 
-export default async function CategoryPage({ params }: Props) {
-    const { slug } = params;
+export default async function CategoryPage(props: Props) {
+  const params = await props.params;
+  const { slug } = params;
 
   const categories = data.categories as Category[];
 
