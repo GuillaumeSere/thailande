@@ -1,6 +1,6 @@
 'use client';
 
-import React from 'react';
+import React, { useCallback, useEffect, useRef, useState } from 'react';
 import useEmblaCarousel from 'embla-carousel-react';
 import Autoplay from 'embla-carousel-autoplay';
 import Image from 'next/image';
@@ -11,9 +11,55 @@ type CarouselProps = {
 };
 
 const Carousel: React.FC<CarouselProps> = ({ media }) => {
-  const [emblaRef] = useEmblaCarousel({ loop: true }, [
-    Autoplay({ delay: 8000, stopOnInteraction: false }),
-  ]);
+  const [isVideoPlaying, setIsVideoPlaying] = useState(false);
+  const autoplayRef = useRef(
+    Autoplay({ 
+      delay: 8000, 
+      stopOnInteraction: false,
+      stopOnMouseEnter: false,
+      stopOnFocusIn: false
+    })
+  );
+  const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true }, [autoplayRef.current]);
+  const videoRefs = useRef<(HTMLVideoElement | null)[]>([]);
+
+  // Fonction pour arrêter l'autoplay quand une vidéo joue
+  const handleVideoPlay = useCallback(() => {
+    setIsVideoPlaying(true);
+  }, []);
+
+  // Fonction pour reprendre l'autoplay quand une vidéo s'arrête
+  const handleVideoPause = useCallback(() => {
+    setIsVideoPlaying(false);
+  }, []);
+
+  // Fonction pour reprendre l'autoplay quand une vidéo se termine
+  const handleVideoEnded = useCallback(() => {
+    setIsVideoPlaying(false);
+  }, []);
+
+  // Effet pour contrôler l'autoplay selon l'état de lecture des vidéos
+  useEffect(() => {
+    if (!emblaApi) return;
+
+    const autoplay = emblaApi.plugins().autoplay;
+    if (!autoplay) return;
+
+    if (isVideoPlaying) {
+      // Arrêter l'autoplay
+      autoplay.stop();
+    } else {
+      // Reprendre l'autoplay  
+      autoplay.play();
+    }
+  }, [isVideoPlaying, emblaApi]);
+
+  // Nettoyer les références vidéo quand le composant se démonte
+  useEffect(() => {
+    return () => {
+      videoRefs.current = [];
+    };
+  }, []);
 
   return (
     <div className="embla" ref={emblaRef}>
@@ -33,7 +79,7 @@ const Carousel: React.FC<CarouselProps> = ({ media }) => {
                 priority={index === 0}
               />
             ) : item.url.includes('youtube.com/embed') ? (
-              <div className="w-full h-full flex justify-center items-center">
+              <div className="max-w-full h-full flex justify-center items-center">
                 <div className="w-full h-0 pb-[56.25%] relative">
                   <iframe
                     src={item.url}
@@ -45,10 +91,16 @@ const Carousel: React.FC<CarouselProps> = ({ media }) => {
               </div>
             ) : (
               <video
+                ref={(el) => {
+                  videoRefs.current[index] = el;
+                }}
                 src={item.url}
                 controls
                 preload="metadata"
                 className="max-w-full max-h-full w-auto h-auto"
+                onPlay={handleVideoPlay}
+                onPause={handleVideoPause}
+                onEnded={handleVideoEnded}
               />
             )}
           </div>
